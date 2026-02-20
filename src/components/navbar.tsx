@@ -48,7 +48,7 @@ export default function Navbar() {
           <div className="flex items-center gap-4">
             <Link href="/">
               <Image
-                src="/assets/cAbnkI0AkEaDouR18fSragbzg78.png"
+                src="/images/cyberxp-logo.png"
                 alt="CYBER XP"
                 width={206}
                 height={56}

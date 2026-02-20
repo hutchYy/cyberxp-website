@@ -7,10 +7,10 @@ export const metadata: Metadata = {
 };
 
 const teamImages = [
-  '/images/team-julian.jpg',
-  '/images/3AcKoTlqGxxdHlnT0ZrIYBNUr3E.png',
-  '/images/OrZAcCO7eE6m3mipW8FbkJHVnH0.jpg',
-  '/images/team-vincent.jpg',
+  '/images/vincent-cyberxp.JPG',
+  '/images/yves-cyberxp.JPG',
+  '/images/ac-cyberxp.JPG',
+  '/images/julian-cyberxp.JPG',
 ];
 
 export default async function TeamPage() {
