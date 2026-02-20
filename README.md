@@ -54,6 +54,7 @@ public/                    # Static assets (images, logos)
 - Testimonials carousel
 - Infinite-scrolling partner logos
 - Photo gallery with CTA section
+- Many other things
 
 ## Deployment
 
