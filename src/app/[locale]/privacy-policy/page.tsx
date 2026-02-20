@@ -1,5 +1,9 @@
+import type { Metadata } from 'next';
 import { getTranslations } from 'next-intl/server';
 
+export const metadata: Metadata = {
+  title: 'Privacy Policy | CyberXP',
+};
 
 export default async function PrivacyPolicyPage() {
   const t = await getTranslations();

@@ -3,7 +3,7 @@
 import { useTranslations } from 'next-intl';
 import { useState, useEffect, useCallback } from 'react';
 import { ArrowRight } from 'lucide-react';
-import { Link } from '@/i18n/routing';
+import { Link } from '@/lib/utm';
 import content from '@/data/content.json';
 
 export default function HomePage() {

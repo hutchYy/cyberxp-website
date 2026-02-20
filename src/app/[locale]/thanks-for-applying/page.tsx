@@ -1,6 +1,11 @@
+import type { Metadata } from 'next';
 import { getTranslations } from 'next-intl/server';
-import { Link } from '@/i18n/routing';
+import { Link } from '@/lib/utm';
 import { CheckCircle, ArrowRight } from 'lucide-react';
+
+export const metadata: Metadata = {
+  title: 'Thanks for Applying | CyberXP',
+};
 
 export default async function ThanksPage() {
   const t = await getTranslations();

@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { useTranslations, useLocale } from "next-intl";
 import { useRouter, usePathname } from "@/i18n/routing";
-import { Link } from "@/i18n/routing";
+import { Link, useUTMParams } from "@/lib/utm";
 import { ArrowRight, Menu, X } from "lucide-react";
 import Image from "next/image";
 
@@ -12,6 +12,7 @@ export default function Navbar() {
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
+  const utm = useUTMParams();
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
@@ -23,7 +24,9 @@ export default function Navbar() {
   }, []);
 
   const handleLocaleChange = (newLocale: string) => {
-    router.push(pathname, { locale: newLocale });
+    const utmString = new URLSearchParams(utm).toString();
+    const href = utmString ? `${pathname}?${utmString}` : pathname;
+    router.push(href, { locale: newLocale });
   };
 
   const navLinks = [

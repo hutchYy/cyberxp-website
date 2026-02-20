@@ -6,6 +6,7 @@ import Navbar from "@/components/navbar";
 import Footer from "@/components/footer";
 import CookieConsent from "@/components/cookie-consent";
 import Analytics from "@/components/analytics";
+import { UTMProvider } from "@/lib/utm";
 
 export default async function LocaleLayout({
   children,
@@ -28,14 +29,18 @@ export default async function LocaleLayout({
           href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
           rel="stylesheet"
         />
+        <link href="/favicon-light.png" rel="icon" media="(prefers-color-scheme: light)" />
+        <link href="/favicon-dark.png" rel="icon" media="(prefers-color-scheme: dark)" />
       </head>
       <body className="antialiased" style={{ fontFamily: "'Plus Jakarta Sans', sans-serif" }}>
         <NextIntlClientProvider messages={messages}>
-          <Analytics />
-          <Navbar />
-          <main>{children}</main>
-          <Footer />
-          <CookieConsent />
+          <UTMProvider>
+            <Analytics />
+            <Navbar />
+            <main>{children}</main>
+            <Footer />
+            <CookieConsent />
+          </UTMProvider>
         </NextIntlClientProvider>
       </body>
     </html>

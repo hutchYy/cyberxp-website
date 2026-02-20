@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sort:*)",
+      "Bash(md5:*)",
+      "WebFetch(domain:www.cyberxp.be)",
+      "Bash(curl:*)",
+      "Bash(npm run build:*)"
+    ]
+  }
+}

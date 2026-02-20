@@ -2,9 +2,22 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "CyberXP - Cybersecurity for SMEs",
-  description:
-    "Get up to speed with Cybersecurity for SMEs. Be inspired by thought-provoking keynotes, workshops, and networking opportunities.",
+  metadataBase: new URL("https://www.cyberxp.be"),
+  title: "CyberXP",
+  description: "CyberXP | Live a real Cyber Experience",
+  openGraph: {
+    type: "website",
+    title: "CyberXP",
+    description: "CyberXP | Live a real Cyber Experience",
+    siteName: "CyberXP",
+    images: [{ url: "/og-image.png" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "CyberXP",
+    description: "CyberXP | Live a real Cyber Experience",
+    images: ["/og-image.png"],
+  },
 };
 
 export default function RootLayout({

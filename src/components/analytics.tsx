@@ -4,8 +4,7 @@ import { useEffect, useState } from 'react';
 import Script from 'next/script';
 import { getConsentStatus, type ConsentStatus } from './cookie-consent';
 
-// Replace with your actual GA4 Measurement ID
-const GA_MEASUREMENT_ID = 'G-XXXXXXXXXX';
+const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID ?? '';
 
 declare global {
   interface Window {

@@ -1,5 +1,9 @@
+import type { Metadata } from 'next';
 import { getTranslations } from 'next-intl/server';
 
+export const metadata: Metadata = {
+  title: 'Terms & Conditions | CyberXP',
+};
 
 export default async function TermsPage() {
   const t = await getTranslations();

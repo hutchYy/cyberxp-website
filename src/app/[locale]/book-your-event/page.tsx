@@ -1,11 +1,11 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
-import { Link, useRouter } from '@/i18n/routing';
+import { Link } from '@/lib/utm';
+import { useRouter } from '@/i18n/routing';
 import { ArrowRight, Loader2 } from 'lucide-react';
 import { useState, FormEvent } from 'react';
 
-const WEBHOOK_URL = 'https://n8n-ygsow0k0oss8ww4840owc4ko.managed.cyberxp.be/webhook/d88dff96-f1c3-4cc0-b9d9-f9ac68787169';
 const FALLBACK_EMAIL = 'info@cyberxp.be';
 
 export default function BookEventPage() {
@@ -24,6 +24,7 @@ export default function BookEventPage() {
     comments: '',
     acceptPrivacy: false,
     acceptTerms: false,
+    _hp: '', // honeypot field — hidden from real users
   });
 
   const [submitting, setSubmitting] = useState(false);
@@ -51,7 +52,7 @@ export default function BookEventPage() {
     setSubmitting(true);
 
     try {
-      const res = await fetch(WEBHOOK_URL, {
+      const res = await fetch('/api/book-event', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -64,7 +65,7 @@ export default function BookEventPage() {
           mobilePhone: form.mobilePhone,
           website: form.website,
           comments: form.comments,
-          submittedAt: new Date().toISOString(),
+          _hp: form._hp,
         }),
       });
 
@@ -140,6 +141,7 @@ export default function BookEventPage() {
               <input
                 type="text"
                 required
+                maxLength={200}
                 value={form.fullName}
                 onChange={(e) => update('fullName', e.target.value)}
                 placeholder="Jane Smith"
@@ -155,6 +157,7 @@ export default function BookEventPage() {
               <input
                 type="text"
                 required
+                maxLength={200}
                 value={form.companyName}
                 onChange={(e) => update('companyName', e.target.value)}
                 placeholder="CyberXP ASBL/VZW"
@@ -170,6 +173,7 @@ export default function BookEventPage() {
               <input
                 type="text"
                 required
+                maxLength={300}
                 value={form.companyActivity}
                 onChange={(e) => update('companyActivity', e.target.value)}
                 className="w-full border-b border-gray-300 py-3 px-1 text-gray-700 placeholder-gray-400 focus:outline-none focus:border-cyan-400 transition-colors bg-transparent"
@@ -202,6 +206,7 @@ export default function BookEventPage() {
               <input
                 type="text"
                 required
+                maxLength={200}
                 value={form.jobTitle}
                 onChange={(e) => update('jobTitle', e.target.value)}
                 className="w-full border-b border-gray-300 py-3 px-1 text-gray-700 placeholder-gray-400 focus:outline-none focus:border-cyan-400 transition-colors bg-transparent"
@@ -216,6 +221,7 @@ export default function BookEventPage() {
               <input
                 type="email"
                 required
+                maxLength={254}
                 value={form.companyEmail}
                 onChange={(e) => update('companyEmail', e.target.value)}
                 className="w-full border-b border-gray-300 py-3 px-1 text-gray-700 placeholder-gray-400 focus:outline-none focus:border-cyan-400 transition-colors bg-transparent"
@@ -230,6 +236,7 @@ export default function BookEventPage() {
               <input
                 type="tel"
                 required
+                maxLength={30}
                 value={form.mobilePhone}
                 onChange={(e) => update('mobilePhone', e.target.value)}
                 className="w-full border-b border-gray-300 py-3 px-1 text-gray-700 placeholder-gray-400 focus:outline-none focus:border-cyan-400 transition-colors bg-transparent"
@@ -243,6 +250,7 @@ export default function BookEventPage() {
               </label>
               <input
                 type="url"
+                maxLength={500}
                 value={form.website}
                 onChange={(e) => update('website', e.target.value)}
                 className="w-full border-b border-gray-300 py-3 px-1 text-gray-700 placeholder-gray-400 focus:outline-none focus:border-cyan-400 transition-colors bg-transparent"
@@ -256,6 +264,7 @@ export default function BookEventPage() {
               </label>
               <textarea
                 rows={3}
+                maxLength={2000}
                 value={form.comments}
                 onChange={(e) => update('comments', e.target.value)}
                 className="w-full border-b border-gray-300 py-3 px-1 text-gray-700 placeholder-gray-400 focus:outline-none focus:border-cyan-400 transition-colors bg-transparent resize-none"
@@ -292,6 +301,18 @@ export default function BookEventPage() {
                   </Link>
                 </span>
               </label>
+            </div>
+
+            {/* Honeypot — hidden from real users, catches bots */}
+            <div className="absolute opacity-0 -z-10" aria-hidden="true" tabIndex={-1}>
+              <input
+                type="text"
+                name="_hp"
+                autoComplete="off"
+                tabIndex={-1}
+                value={form._hp}
+                onChange={(e) => update('_hp', e.target.value)}
+              />
             </div>
 
             {/* Error message */}
