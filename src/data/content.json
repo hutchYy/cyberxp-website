@@ -1,0 +1,346 @@
+{
+  "sponsors": [
+    {
+      "name": "Agoria",
+      "logo": "https://www.agoria.be/themes/custom/agoria/logo.svg",
+      "link": "https://www.agoria.be/en",
+      "type": "Backers"
+    },
+    {
+      "name": "Cyber Security Coalition",
+      "logo": "https://ctf.infogroep.be/files/a3addf0d7ba647e915230f75038ed5a0/logo-csc.png",
+      "link": "https://cybersecuritycoalition.be/",
+      "type": "Backers"
+    },
+    {
+      "name": "Center for Cyber Security Belgium",
+      "logo": "https://s3.managed.cyberxp.be/static-files-website/ccb.webp",
+      "link": "https://ccb.belgium.be/",
+      "type": "Backers"
+    },
+    {
+      "name": "VBO/FEB",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/VBO-FEB_logotype_NL-FR_RGB.svg/2560px-VBO-FEB_logotype_NL-FR_RGB.svg.png",
+      "link": "https://www.vbo-feb.be/nl/",
+      "type": "Backers"
+    },
+    {
+      "name": "BECI",
+      "logo": "https://s3.managed.cyberxp.be/static-files-website/beci-bg.png",
+      "link": "https://www.beci.be/",
+      "type": "Backers"
+    },
+    {
+      "name": "Digital Wallonia",
+      "logo": "https://images.ctfassets.net/myqv2p4gx62v/6S22zwIqUWrRC5BHBQBG6x/d52b9559fc79a2dfe5b547b34595b216/Logo-Web-Digital-Wallonia-Blanc-RVB.png?w=400&fm=webp",
+      "link": "https://www.digitalwallonia.be/",
+      "type": "Backers"
+    },
+    {
+      "name": "KU Leuven",
+      "logo": "https://s3.managed.cyberxp.be/static-files-website/KU.png",
+      "link": "https://www.kuleuven.be/",
+      "type": "Backers"
+    }
+  ],
+  "quotes": [
+    {
+      "name": "Jef Cools",
+      "title": "adjunct-secretaris-generaal a.i.",
+      "org": "Hoge Raad voor Zelfstandigen en KMO’s",
+      "quote": "Heel mooi aanbod. Op één dag tijd als zelfstandige, kmo of vrije beroeper je cyberveiligheid gevoelig verbeteren. En dankzij de overheid volledig gratis. Vanuit de HRZKMO roepen we alle kmo’s dan ook op zeker gebruik te maken van dit en andere Cyber4SME projecten."
+    },
+    {
+      "name": "Paul H.",
+      "title": "HR Manager",
+      "org": "SME IT Services",
+      "quote": "A great opportunity to challenge yourself and discover new insights"
+    },
+    {
+      "name": "Jan S.",
+      "title": "Director",
+      "org": "Industrial Equipment Retailer",
+      "quote": "By the end of the day, we knew how to arm our small SME against cyber attacks. \nThe coaches were ready to share their knowledge and helped us to draw up a personal step-by-step plan."
+    },
+    {
+      "name": "Laurence V.",
+      "title": "Accountant",
+      "org": "Gardening Services Company",
+      "quote": "The CYBER XP workshop provided new knowledge and insights in a practical and interactive way."
+    }
+  ],
+  "resources": {
+    "en": [
+      {
+        "title": "Register to cyber threats alerts",
+        "category": "Link",
+        "picture": "https://s3.managed.cyberxp.be/static-files-website/safeonweb.png",
+        "url": "https://atwork.safeonweb.be/protect-my-organisation/cyber-threat-alerts",
+        "siteName": "atwork.safeonweb.be",
+        "description": ""
+      },
+      {
+        "title": "Cyberscan",
+        "category": "Link",
+        "picture": "https://i.ytimg.com/vi/y9hsGx1K_4Q/maxresdefault.jpg",
+        "url": "https://economie.fgov.be/en/cyberscan",
+        "siteName": "economie.fgov.be",
+        "description": ""
+      },
+      {
+        "title": "SafeOnWeb - Tips",
+        "category": "Link",
+        "picture": "https://s3.managed.cyberxp.be/static-files-website/safeonweb.png",
+        "url": "https://safeonweb.be/en/tips",
+        "siteName": "safeonweb.be",
+        "description": ""
+      },
+      {
+        "title": "Cybersecurity Coalition",
+        "category": "Link",
+        "picture": "https://cybersecuritycoalition.be/wp-content/uploads/default-fallback-image.png",
+        "url": "https://cybersecuritycoalition.be/resource/",
+        "siteName": "cybersecuritycoalition.be",
+        "description": "The Place to be for Cyber Security Experts"
+      },
+      {
+        "title": "Cyber Incident Roadmap",
+        "category": "Link",
+        "picture": "https://s3.managed.cyberxp.be/static-files-website/cyber-incident.png",
+        "url": "https://cdn.vbo-feb.be/vbo-feb/2024/05/28113939/feb-2024-cybercrime_en_interactive_pages.pdf",
+        "siteName": "cdn.vbo-feb.be",
+        "description": ""
+      },
+      {
+        "title": "ENISA - European Union Agency for Cybersecurity",
+        "category": "Link",
+        "picture": "https://www.enisa.europa.eu/themes/custom/enisaweb/enisa-logo.png",
+        "url": "https://www.enisa.europa.eu/",
+        "siteName": "enisa.europa.eu",
+        "description": ""
+      },
+      {
+        "title": "NVISO CyberCoach",
+        "category": "Link",
+        "picture": "https://opengraph.b-cdn.net/production/images/6fad4b7b-1548-409c-951f-908589889a4a.png?token=jKEb-N9VsoxNCu8Mo6-HQXxYltiEv9nrG9Svabqp7lI&height=253&width=414&expires=33262745864",
+        "url": "https://cyberemergencycoach.eu/",
+        "siteName": "cyberemergencycoach.eu",
+        "description": "🎮&quot;CYBER EMERGENCY COACH&quot;, a cyber-serious game to enhance SMALL BUSINESSES&#39; cybersecurity. Learn to protect your activity by playing different scenarios, obtaining tips and tools. It&#39;s simple, quick and fun! 💻🛡️"
+      }
+    ],
+    "nl": [
+      {
+        "title": "Register to cyber threats alerts",
+        "category": "Link",
+        "picture": "https://s3.managed.cyberxp.be/static-files-website/safeonweb.png",
+        "url": "https://atwork.safeonweb.be/nl/protect-my-organisation/cyber-threat-alerts",
+        "siteName": "atwork.safeonweb.be",
+        "description": ""
+      },
+      {
+        "title": "Cyberscan",
+        "category": "Link",
+        "picture": "https://i.ytimg.com/vi/y9hsGx1K_4Q/maxresdefault.jpg",
+        "url": "https://economie.fgov.be/nl/cyberscan",
+        "siteName": "economie.fgov.be",
+        "description": ""
+      },
+      {
+        "title": "SafeOnWeb - Tips",
+        "category": "Link",
+        "picture": "https://s3.managed.cyberxp.be/static-files-website/safeonweb.png",
+        "url": "https://safeonweb.be/nl/tips",
+        "siteName": "safeonweb.be",
+        "description": ""
+      },
+      {
+        "title": "Risicobeheer in ondernemingen: templates, checklists en praktijkfiches",
+        "category": "Link",
+        "picture": "https://i.ytimg.com/vi/y9hsGx1K_4Q/maxresdefault.jpg",
+        "url": "https://economie.fgov.be/nl/themas/ondernemingen/een-onderneming-beheren-en/risicobeheer/risicobeheer-ondernemingen",
+        "siteName": "economie.fgov.be",
+        "description": "Zo’n Incident Response Plan, hoe ziet dat eruit? Welke stappen moet u doorlopen met uw bedrijf om tot een sterke Risk Assessment te komen? Verschillende templates zetten u op weg om zelf tot solide procedures te komen."
+      },
+      {
+        "title": "Mijn Zaak Cyberveilig",
+        "category": "Link",
+        "picture": "https://mijnzaakcyberveilig.be/sites/default/files/2023-03/cybersecurity-banner.png",
+        "url": "https://mijnzaakcyberveilig.be/",
+        "siteName": "mijnzaakcyberveilig.be",
+        "description": ""
+      },
+      {
+        "title": "Safeonweb - Trap nooit meer in de val",
+        "category": "Link",
+        "picture": "https://s3.managed.cyberxp.be/static-files-website/safeonweb.png",
+        "url": "https://safeonweb.be/nl/trap-nooit-meer-de-val",
+        "siteName": "safeonweb.be",
+        "description": ""
+      },
+      {
+        "title": "Safeonweb - Cyberfundamentals Framework",
+        "category": "Link",
+        "picture": "https://s3.managed.cyberxp.be/static-files-website/safeonweb.png",
+        "url": "https://atwork.safeonweb.be/nl/tools-resources/cyberfundamentals-framework",
+        "siteName": "atwork.safeonweb.be",
+        "description": ""
+      },
+      {
+        "title": "Cyber Incident Roadmap",
+        "category": "Link",
+        "picture": "https://s3.managed.cyberxp.be/static-files-website/cyber-incident.png",
+        "url": "https://cdn.vbo-feb.be/vbo-feb/2024/05/28113937/feb-2024-cybercrime_nl_interactive_pages.pdf",
+        "siteName": "cdn.vbo-feb.be",
+        "description": ""
+      },
+      {
+        "title": "VLAIO Cybersecurity",
+        "category": "Link",
+        "picture": "https://s3.managed.cyberxp.be/static-files-website/vlaio-banner.png",
+        "url": "https://www.vlaio.be/nl/begeleiding-advies/digitalisering/cybersecurity",
+        "siteName": "vlaio.be",
+        "description": ""
+      },
+      {
+        "title": "Premie Consultancy",
+        "category": "Link",
+        "picture": "https://economie-emploi.brussels/themes/custom/bew/img/logo/logo-lg_nl.svg",
+        "url": "https://economie-werk.brussels/premie-consultancy",
+        "siteName": "economie-werk.brussels",
+        "description": "Wilt u graag het advies van een expert om de activiteit van uw onderneming te optimaliseren? U kunt een consultancypremie aanvragen die tussen 25% en 70% van uw kosten dekt!"
+      }
+    ],
+    "fr": [
+      {
+        "title": "Register to cyber threats alerts",
+        "category": "Link",
+        "picture": "https://s3.managed.cyberxp.be/static-files-website/safeonweb.png",
+        "url": "https://atwork.safeonweb.be/fr/protect-my-organisation/cyber-threat-alerts",
+        "siteName": "atwork.safeonweb.be",
+        "description": ""
+      },
+      {
+        "title": "Cyberscan",
+        "category": "Link",
+        "picture": "https://i.ytimg.com/vi/y9hsGx1K_4Q/maxresdefault.jpg",
+        "url": "https://economie.fgov.be/fr/cyberscan",
+        "siteName": "economie.fgov.be",
+        "description": ""
+      },
+      {
+        "title": "SafeOnWeb - Tips",
+        "category": "Link",
+        "picture": "https://s3.managed.cyberxp.be/static-files-website/safeonweb.png",
+        "url": "https://safeonweb.be/fr/tips",
+        "siteName": "safeonweb.be",
+        "description": ""
+      },
+      {
+        "title": "Gestion des risques en entreprise : modèles, check-lists et fiches pratiques",
+        "category": "Link",
+        "picture": "https://i.ytimg.com/vi/y9hsGx1K_4Q/maxresdefault.jpg",
+        "url": "https://economie.fgov.be/fr/themes/entreprises/developper-et-gerer-une/gestion-des-risques/gestion-des-risques-en",
+        "siteName": "economie.fgov.be",
+        "description": "Quelles mesures devez-vous prendre pour réaliser un Risk Assessment efficace ? Comment élaborer un Business Continuity Plan ? À quoi ressemble un Incident Response Plan ? Modèles mis à disposition pour établir par soi-même des procédures solides."
+      },
+      {
+        "title": "Ma PME Cyber Sécurisée",
+        "category": "Link",
+        "picture": "https://mapmecybersecurisee.be/sites/default/files/2023-03/cybersecurity-banner.png",
+        "url": "https://mapmecybersecurisee.be/",
+        "siteName": "mapmecybersecurisee.be",
+        "description": ""
+      },
+      {
+        "title": "Quickscan",
+        "category": "Link",
+        "picture": "https://mapmecybersecurisee.be/sites/default/files/2023-02/MicrosoftTeams-image%20%287%29.png",
+        "url": "https://mapmecybersecurisee.be/quickscan",
+        "siteName": "mapmecybersecurisee.be",
+        "description": ""
+      },
+      {
+        "title": "Safeonweb - Ne vous faites plus jamais avoir",
+        "category": "Link",
+        "picture": "https://s3.managed.cyberxp.be/static-files-website/safeonweb.png",
+        "url": "https://safeonweb.be/fr/ne-vous-faites-plus-jamais-avoir",
+        "siteName": "safeonweb.be",
+        "description": ""
+      },
+      {
+        "title": "Safeonweb - Cyberfundamentals Framework",
+        "category": "Link",
+        "picture": "https://s3.managed.cyberxp.be/static-files-website/safeonweb.png",
+        "url": "https://atwork.safeonweb.be/fr/tools-resources/cyberfundamentals-framework",
+        "siteName": "atwork.safeonweb.be",
+        "description": ""
+      },
+      {
+        "title": "Digital Wallonia - Keep It Secure",
+        "category": "Link",
+        "picture": "https://images.ctfassets.net/myqv2p4gx62v/4kgPrXILSbmv0VlhUXO1Bq/9ac0aa90b2a148f2ce08b4b2ff00e075/Logo_Digital_Wallonia_Couleur_RVB?w=300&fm=webp",
+        "url": "https://www.digitalwallonia.be/fr/publications/keepitsecure/",
+        "siteName": "digitalwallonia.be",
+        "description": "Porté par l’Agence du Numérique, la Grappe Cyber &amp; Sécurité de l’INFOPOLE et les centres de recherche CETIC et Multitel, le dispositif &quot;Keep It Secure&quot; vise à faire progresser le niveau de maturité des PMEs en matière de sécurité informatique et de créer une dynamique de confiance autour des prestataires en cybersécurité."
+      },
+      {
+        "title": "Chèques-Entreprises Cyber",
+        "category": "Link",
+        "picture": "https://www.cheques-entreprises.be/wp-content/uploads/2019/03/logo_cheque_entreprises.png",
+        "url": "https://www.cheques-entreprises.be/cheques/cybersecurite/",
+        "siteName": "cheques-entreprises.be",
+        "description": ""
+      },
+      {
+        "title": "Prime Consultance",
+        "category": "Link",
+        "picture": "https://economie-emploi.brussels/themes/custom/bew/img/logo/logo-lg_fr.svg",
+        "url": "https://economie-emploi.brussels/prime-consultance",
+        "siteName": "economie-emploi.brussels",
+        "description": "Vous souhaitez profiter des conseils d’un expert pour optimiser l’activité de votre entreprise ? Vous pouvez bénéficier d&#039;une prime à la consultance qui couvrira de 25 à 70% de vos frais !"
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "q": "Do I need to be an IT expert to attend?",
+      "a": "Not at all! The event is designed for everyone — whether you're a business owner, freelancer, manager, or just curious about cybersecurity. No technical background is required."
+    },
+    {
+      "q": "Will the content be too technical for me?",
+      "a": "No. All sessions are built to be accessible and hands-on, using real-world examples that make sense no matter your level of experience. You’ll learn practical steps you can apply immediately."
+    },
+    {
+      "q": "Who is this event really for?",
+      "a": "It’s tailored for SMEs, self-employed professionals, and anyone looking to better understand how to protect their business or organization from cyber threats — even if they’re not in IT."
+    },
+    {
+      "q": "What if I already have an IT provider or internal team?",
+      "a": "Perfect — this event will help you better understand the risks, ask the right questions, and make more informed decisions in collaboration with your IT support."
+    },
+    {
+      "q": "In which language the event will take place?",
+      "a": "In Flanders in NL, in Wallonia in FR and in Brussels it will be bilingual. Some parts of the games may be in English but our coaches are there to help you."
+    },
+    {
+      "q": "Can I bring 2 colleagues with me to the event?",
+      "a": "To give as many companies as possible a seat and to enrich the exchanges, we limit the participation to 2 persons for each company. So you can bring 1 colleague with you."
+    },
+    {
+      "q": "Can I have a certificate of attendance for the training?",
+      "a": "All attendees will receive a certificate of attendance."
+    },
+    {
+      "q": "What if I can not attend due to illness or other urgent obligations?",
+      "a": "We trust that by enrolling you are committed to attend and will not be absent unless an emergency should happen. To avoid 'no shows' and give the opportunity to other people to attend, we would really appreciate that you inform us as soon as possible. Finding a good stand-in from your company is then very welcome."
+    },
+    {
+      "q": "I have an allergy for nuts. Can you take this into account for the catering?",
+      "a": "We will of course take into account all special dietary requirements, please let us know before the event."
+    },
+    {
+      "q": "We exchange a lot of sometimes confidential information, which makes the exercise so meaningful. However, can you ensure that all what is being discussed, exchanged and collected/processed is handled with the right level of confidentiality?",
+      "a": "We refer to the link to our Privacy Policy at the bottom of the home page. Moreover, during the events we work with the Chatham House rule which means that you are free to use the information received but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed."
+    }
+  ]
+}

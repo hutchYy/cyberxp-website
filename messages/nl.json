@@ -1,0 +1,284 @@
+{
+  "nav": {
+    "home": "Start",
+    "faq": "FAQ",
+    "team": "Team",
+    "resources": "Hulpbronnen",
+    "bookEvent": "Vraag voor deelname",
+    "language": "NL"
+  },
+  "hero": {
+    "title": "Krijg de kneepjes van Cybersecurity voor KMO's onder de knie",
+    "subtitle": "En ga naar huis met een concreet plan met quick wins en gratis begeleiding bij implementatie",
+    "cta": "Aanvraag voor deelname"
+  },
+  "partners": {
+    "supportedBy": "Ondersteund door"
+  },
+  "expect": {
+    "label": "Wat te verwachten van het evenement?",
+    "title": "Een interactief residentieel programma om de cybersecurity-uitdagingen van je bedrijf concreet aan te pakken",
+    "description": "Ontworpen voor KMO's en zelfstandigen die echte simulaties willen ervaren, toegang willen tot deskundige coaching en praktische oplossingen willen vinden om hun bedrijf met vertrouwen te beschermen tegen de cyberdreigingen van morgen."
+  },
+  "features": {
+    "caseStudies": {
+      "title": "Leer van praktijk casestudy's en games over echte bedreigingen",
+      "description": "Door middel van meeslepende casusgerelateerde oefeningen zullen deelnemers worden geconfronteerd met ransomware-aanvallen, phishingpogingen, CEO-fraude en datalekken, waarbij ze leren hoe aanvallers opereren en hoe ze effectief kunnen reageren. De simulaties zijn ontworpen om de werkelijke cyberbedreigingen waarmee KMO's worden geconfronteerd, weer te geven, waardoor ze relevantie en toepasbare inzichten bieden."
+    },
+    "coaching": {
+      "title": "Ontwikkel je eigen veiligheidsplan met deskundige coaching",
+      "description": "Begeleid door cybersecurity professionelen zal elke deelnemer een gepersonaliseerd beveiligingsactieplan ontwikkelen met drie \"quick wins\" om hun cyberweerbaarheid te vergroten. Speciale aandacht gaat naar het implementeren van preventie maatregelen, detectie van cyberaanvallen, alsook de te nemen acties als het noodlot toeslaat."
+    }
+  },
+  "contactCta": {
+    "title": "Interesse in een eigen event 'Just for You'?",
+    "subtitle": "Contacteer ons op info@cyberxp.be"
+  },
+  "testimonials": {
+    "title": "What They're Saying",
+    "items": [
+      {
+        "quote": "Heel mooi aanbod. Op één dag tijd als zelfstandige, kmo of vrije beroeper je cyberveiligheid gevoelig verbeteren. En dankzij de overheid volledig gratis. Vanuit de HRZKMO roepen we alle kmo's dan ook op zeker gebruik te maken van dit en andere Cyber4SME projecten.",
+        "name": "Jef Cools, adjunct-secretaris-generaal a.i.",
+        "org": "Hoge Raad voor Zelfstandigen en KMO's"
+      },
+      {
+        "quote": "Een geweldige kans om jezelf uit te dagen en nieuwe inzichten te ontdekken",
+        "name": "Paul H., HR Manager",
+        "org": "SME IT Services"
+      },
+      {
+        "quote": "Aan het einde van de dag wisten we hoe we ons kleine KMO konden wapenen tegen cyberaanvallen. De coaches waren bereid om hun kennis te delen en hielpen ons een persoonlijk stap-voor-stapplan op te stellen.",
+        "name": "Jan S., Director",
+        "org": "Industrial Equipment Retailer"
+      },
+      {
+        "quote": "De CYBER XP-workshop bood nieuwe kennis en inzichten op een praktische en interactieve manier.",
+        "name": "Laurence V., Accountant",
+        "org": "Gardening Services Company"
+      }
+    ]
+  },
+  "faqPreview": {
+    "title": "Veel gestelde vragen",
+    "browseFaq": "Bekijk onze FAQ",
+    "items": [
+      {
+        "q": "Moet ik een IT-expert zijn om deel te nemen?",
+        "a": "Helemaal niet! Het evenement is ontworpen voor iedereen — of je nu een ondernemer, freelancer, manager bent of gewoon nieuwsgierig bent naar cyberbeveiliging. Er is geen technische achtergrond vereist."
+      },
+      {
+        "q": "Zal de inhoud te technisch voor mij zijn?",
+        "a": "Nee. Alle sessies zijn toegankelijk en praktisch, met gebruik van real-world voorbeelden die logisch zijn, ongeacht uw ervaringsniveau. U leert praktische stappen die u onmiddellijk kunt toepassen."
+      },
+      {
+        "q": "Voor wie is dit evenement echt bedoeld?",
+        "a": "Het is op maat gemaakt voor KMO's, zelfstandige professionals en iedereen die beter wil begrijpen hoe ze hun bedrijf of organisatie kunnen beschermen tegen cyberdreigingen - zelfs als ze zich niet in de IT-sector bevinden."
+      },
+      {
+        "q": "Wat als ik al een IT-provider of intern team heb?",
+        "a": "Perfect — dit evenement zal je helpen de risico's beter te begrijpen, de juiste vragen te stellen en meer geïnformeerde beslissingen te nemen in samenwerking met je IT-ondersteuning."
+      }
+    ]
+  },
+  "galleryCta": {
+    "title": "Ervaar, Beveilig, Groei",
+    "description": "Krijg praktische ervaring door meeslepende simulaties, deskundig coaching en casestudy's uit de echte wereld. Versterk uw cyberbeveiligingsvaardigheden, maak contact met professionals uit de sector en bouw een veerkrachtig bedrijf uit.",
+    "cta": "Vraag voor deelname"
+  },
+  "faqPage": {
+    "title": "FAQ",
+    "subtitle": "Snelle Antwoorden voor Nieuwsgierige Geesten.",
+    "items": [
+      {
+        "q": "Moet ik een IT-expert zijn om deel te nemen?",
+        "a": "Helemaal niet! Het evenement is ontworpen voor iedereen — of je nu een ondernemer, freelancer, manager bent of gewoon nieuwsgierig bent naar cyberbeveiliging. Er is geen technische achtergrond vereist."
+      },
+      {
+        "q": "Zal de inhoud te technisch voor mij zijn?",
+        "a": "Nee. Alle sessies zijn toegankelijk en praktisch, met gebruik van real-world voorbeelden die logisch zijn, ongeacht uw ervaringsniveau. U leert praktische stappen die u onmiddellijk kunt toepassen."
+      },
+      {
+        "q": "Voor wie is dit evenement echt bedoeld?",
+        "a": "Het is op maat gemaakt voor KMO's, zelfstandige professionals en iedereen die beter wil begrijpen hoe ze hun bedrijf of organisatie kunnen beschermen tegen cyberdreigingen - zelfs als ze zich niet in de IT-sector bevinden."
+      },
+      {
+        "q": "Wat als ik al een IT-provider of intern team heb?",
+        "a": "Perfect — dit evenement zal je helpen de risico's beter te begrijpen, de juiste vragen te stellen en meer geïnformeerde beslissingen te nemen in samenwerking met je IT-ondersteuning."
+      },
+      {
+        "q": "In welke taal zal het evenement plaatsvinden?",
+        "a": "In Vlaanderen in NL, in Wallonië in FR en in Brussel zal het tweetalig zijn. Sommige delen van de spellen kunnen in het Engels zijn, maar onze coaches zijn er om je te helpen."
+      },
+      {
+        "q": "Mag ik 2 collega's meenemen naar het evenement?",
+        "a": "Om zoveel mogelijk bedrijven een plaats te geven en de uitwisselingen te verrijken, beperken we de deelname tot 2 personen per bedrijf. U kunt dus 1 collega meebrengen."
+      },
+      {
+        "q": "Kan ik een aanwezigheidsattest krijgen voor de training?",
+        "a": "Alle deelnemers ontvangen een deelnamecertificaat."
+      },
+      {
+        "q": "Wat als ik niet kan deelnemen vanwege ziekte of andere dringende verplichtingen?",
+        "a": "We vertrouwen erop dat u zich door uw inschrijving verbindt om aanwezig te zijn en niet afwezig zult zijn tenzij er een noodgeval zou optreden. Om 'no shows' te vermijden en anderen de kans te geven om aanwezig te zijn, zouden we het zeer op prijs stellen als u ons zo snel mogelijk op de hoogte stelt. Het is dan ook zeer welkom om een goede vervanger vanuit uw bedrijf te vinden."
+      },
+      {
+        "q": "Ik heb een allergie voor noten. Kun je hier rekening mee houden voor de catering?",
+        "a": "We houden uiteraard rekening met alle speciale dieetwensen, laat het ons alstublieft vóór het evenement weten."
+      },
+      {
+        "q": "We wisselen veel soms vertrouwelijke informatie uit... Kunt u er echter voor zorgen dat alles wat wordt besproken, uitgewisseld en verzameld/verwerkt wordt behandeld met het juiste niveau van vertrouwelijkheid?",
+        "a": "We verwijzen naar de link naar ons Privacybeleid onderaan de homepage. Bovendien werken we tijdens de evenementen met de Chatham House-regel, wat betekent dat je de ontvangen informatie vrij mag gebruiken, maar de identiteit of affiliatie van de spreker(s), noch die van andere deelnemers, mag worden onthuld."
+      }
+    ]
+  },
+  "teamPage": {
+    "title": "Ontmoet het Team",
+    "members": [
+      {
+        "name": "Vincent Defrenne",
+        "role": "Project manager and contact person"
+      },
+      {
+        "name": "Yves Schellekens",
+        "role": "Back-up contact person and supportive expert"
+      },
+      {
+        "name": "Anne-Claire Dalle",
+        "role": "Event and administration manager"
+      },
+      {
+        "name": "Julian Dotreppe",
+        "role": "Supportive expert"
+      }
+    ]
+  },
+  "resourcesPage": {
+    "title": "Hulpbronnen",
+    "subtitle": "Verzameling van hulpmiddelen ontworpen om u te informeren, te helpen en te begeleiden bij het verbeteren van uw beveiligingshouding.",
+    "visitLink": "Bezoek bron",
+    "confirmTitle": "CyberXP verlaten",
+    "confirmMessage": "U staat op het punt een externe website te bezoeken. Wilt u doorgaan?",
+    "cancel": "Annuleren",
+    "confirm": "Doorgaan"
+  },
+  "privacyPage": {
+    "title": "Privacybeleid",
+    "lastUpdate": "Laatste update op 16 februari 2025",
+    "sections": [
+      {
+        "title": "Over het evenement",
+        "content": "Deelnemers kunnen zich via deze website aanmelden voor het evenement. Als hun aanvraag voldoet aan de geschiktheidscriteria en als er plaatsen beschikbaar zijn voor het evenement, zullen ze worden uitgenodigd om zich aan te melden voor het evenement.\n\nHet evenement is georganiseerd in twee delen: het hoofd evenement, een volledige dag cyberbeveiliging ervaring, en een vervolg evenement dat 6 tot 12 weken later wordt georganiseerd."
+      },
+      {
+        "title": "Persoonlijke Informatie",
+        "content": "Wij verzamelen persoonlijke identificatie-informatie van gebruikers wanneer gebruikers zich registreren op de site. Gebruikers kunnen worden gevraagd naar hun voor- en achternaam, e-mailadres, telefoonnummer, beroep, informatie over de werkgever, provincie van verblijf en geboortejaar. Deze informatie stelt CSC in staat om aanvragen te verwerken voor registratie voor het evenement."
+      },
+      {
+        "title": "Hoe wij de informatie gebruiken",
+        "subtitle": "Om communicatie te sturen met betrekking tot het evenement",
+        "content": "We kunnen e-mailadressen gebruiken om gebruikers informatie en updates te sturen over hun deelname aan het evenement. Dit vormt geen directe marketing, maar is een integraal onderdeel van het evenement. E-mailadressen kunnen ook worden gebruikt om te reageren op vragen, verzoeken en andere aanvragen."
+      },
+      {
+        "title": "Voor analyse en rapportage",
+        "content": "In samenwerking met de Katholieke Universiteit Leuven (KUL) voert CSC een studie uit naar de impact van bewustwordingsinitiatieven, zoals dit evenement, op de cyberbeveiligingsweerbaarheid van Belgische kleine en middelgrote ondernemingen.\n\nBovendien, aangezien dit evenement wordt gefinancierd door federale en Europese subsidies, is CSC verplicht om verslag uit te brengen over het sociaal-economisch profiel van de deelnemers.\n\nHiervoor kunnen we de verzamelde informatie gebruiken om de sociaal-economische profielen van deelnemers te definiëren; deze informatie zal echter worden geanonimiseerd."
+      },
+      {
+        "title": "Gegevensopslag",
+        "content": "CSC bewaart de persoonlijke gegevens van deelnemers tot uiterlijk 31 maart 2027, de deadline voor het indienen van eindverslagen bij de Belgische Federale Overheid en de Europese Commissie. Zoals hierboven vermeld, zullen gerapporteerde gegevens worden geanonimiseerd. Na deze datum zullen uw persoonlijke gegevens worden verwijderd uit onze systemen."
+      },
+      {
+        "title": "Websites van derden",
+        "content": "Gebruikers kunnen advertenties of andere inhoud op onze site vinden die linken naar de websites en diensten van onze partners, leveranciers, adverteerders, sponsors, licentiegevers en andere derden. Wij controleren niet de inhoud of links die op deze sites verschijnen en zijn niet verantwoordelijk voor de praktijken die worden gehanteerd door websites die gekoppeld zijn aan of van onze site."
+      },
+      {
+        "title": "Wijzigingen in dit privacybeleid",
+        "content": "CSC heeft de bevoegdheid om dit privacybeleid op elk moment bij te werken. Wij moedigen Gebruikers aan om dit privacybeleid periodiek te bekijken en op de hoogte te zijn van wijzigingen."
+      },
+      {
+        "title": "Uw acceptatie van deze voorwaarden",
+        "content": "Door gebruik te maken van deze site, geeft u aan akkoord te gaan met dit beleid. Als u niet akkoord gaat met dit beleid, gebruik onze site dan niet. Uw voortdurende gebruik van de site na enige wijzigingen in dit beleid wordt beschouwd als acceptatie van die wijzigingen."
+      },
+      {
+        "title": "Je rechten uitoefenen",
+        "content": "U heeft het recht om:\n\n- Toegang tot uw persoonlijke gegevens te verzoeken (ook bekend als een \"verzoek om toegang tot gegevens van de betrokkene\"). Dit stelt u in staat om een kopie van de persoonlijke gegevens die wij over u hebben te ontvangen en te verifiëren dat wij deze rechtmatig verwerken.\n\n- Correctie van de persoonlijke gegevens die wij over u hebben te verzoeken. Dit stelt u in staat om onvolledige of onjuiste gegevens te corrigeren, hoewel we mogelijk de juistheid van de nieuwe gegevens die u verstrekt moeten verifiëren.\n\n- Verwijdering van uw persoonlijke gegevens te verzoeken. Dit stelt u in staat om ons te vragen uw persoonlijke gegevens te verwijderen wanneer er geen goede reden is om deze te blijven verwerken.\n\n- Bezwaar te maken tegen de verwerking van uw persoonlijke gegevens wanneer wij ons beroepen op een gerechtvaardigd belang.\n\nBovendien heeft u het recht om een klacht in te dienen bij de relevante toezichthoudende autoriteit als de verwerking van uw persoonlijke gegevens de toepasselijke wetgeving schendt. De contactgegevens van de Belgische Gegevensbeschermingsautoriteit zijn:\n\nGegevensbeschermingsautoriteit\nRue de la Presse / Drukpersstraat 35, 1000 Brussel\nE-mail: contact(at)apd-gba.be\nWebsite: https://www.gegevensbeschermingsautoriteit.be/"
+      }
+    ]
+  },
+  "termsPage": {
+    "title": "Locaties en agenda",
+    "subtitle": "",
+    "lastUpdate": "Laatste update op 14 maart 2025",
+    "sections": [
+      {
+        "title": "Ethiek",
+        "content": "CyberXP is ontworpen om mensen samen te brengen in de eerlijke geest van samenwerking. In deze geest wordt van alle deelnemers verwacht dat ze zich op gepaste wijze gedragen en te allen tijde en onder alle omstandigheden respect tonen tegenover alle deelnemers, medewerkers van de Organisatoren en andere belanghebbenden.\n\nElke gedraging die niet aan deze normen voldoet, zal de reden zijn voor onmiddellijke uitsluiting, zonder waarschuwing of rechtvaardiging, naar goeddunken van de Organisatoren."
+      },
+      {
+        "title": "Nauwkeurigheid van de verstrekte informatie",
+        "content": "Alle informatie, inclusief persoonlijke informatie, die door deelnemers wordt verstrekt tijdens de aanvraag en de daaropvolgende registratie voor het evenement, moet accuraat en geldig zijn.\n\nOnjuiste weergave van gegevens zal leiden tot onmiddellijke uitsluiting."
+      },
+      {
+        "title": "Geschiktheidseisen",
+        "content": "Het CyberXP-programma is gecreëerd als onderdeel van het Cyber4SME Europees onderzoeksproject, gefinancierd door het Digital Europe-programma van de Europese Unie. Het is specifiek ontworpen voor KMO's en zelfstandigen die actief zijn in België. Alle aanvragen worden onderworpen aan een screeningproces om ervoor te zorgen dat deelnemers voldoen aan de geschiktheidscriteria."
+      }
+    ]
+  },
+  "bookPage": {
+    "title": "Book your event",
+    "subtitle": "Empower your staff with real-world cybersecurity training - from awareness sessions to hands-on incident simulations.",
+    "formIntro": "Gelieve dit formulier in te vullen om je aan te melden voor een van onze komende evenementen. Houd er rekening mee dat alle aanvragers een screeningproces ondergaan; als je geselecteerd wordt, ontvang je een formele uitnodiging.",
+    "fields": {
+      "fullName": "Wat is je volledige naam?",
+      "companyName": "Wat is de naam van uw bedrijf?",
+      "companyActivity": "Wat is de belangrijkste activiteit van uw bedrijf?",
+      "companySize": "Wat is de grootte van uw bedrijf?",
+      "employees": "werknemer(s)",
+      "jobTitle": "Wat is je functietitel?",
+      "companyEmail": "Wat is het e-mailadres van uw bedrijf?",
+      "mobilePhone": "Wat is uw mobiele telefoonnummer?",
+      "website": "Bedrijfswebsite (optioneel)",
+      "comments": "Extra opmerkingen (optioneel)",
+      "acceptPrivacy": "Ik accepteer de",
+      "privacyLink": "verwerking van mijn persoonlijke gegevens",
+      "acceptTerms": "Ik accepteer de",
+      "termsLink": "voorwaarden en condities"
+    },
+    "submit": "Vraag voor deelname",
+    "submitting": "Bezig met verzenden…",
+    "errorRequired": "Vul alle verplichte velden in.",
+    "errorCheckboxes": "Accepteer het privacybeleid en de algemene voorwaarden."
+  },
+  "thanksPage": {
+    "title": "Bedankt!",
+    "heading": "Uw aanvraag is ontvangen",
+    "message": "Bedankt voor uw interesse in CyberXP. Wij zullen uw aanvraag bekijken en zo snel mogelijk contact met u opnemen. Als u geselecteerd wordt, ontvangt u een formele uitnodiging per e-mail.",
+    "backHome": "Terug naar startpagina"
+  },
+  "footer": {
+    "ctaTitle": "Ervaar, Beveilig, Groei",
+    "ctaDescription": "Krijg praktische ervaring door meeslepende simulaties, deskundig coaching en casestudy's uit de echte wereld. Versterk uw cyberbeveiligingsvaardigheden, maak contact met professionals uit de sector en bouw een veerkrachtig bedrijf uit.",
+    "navigate": "Navigeren",
+    "support": "Ondersteuning",
+    "contact": "Contacteer",
+    "home": "Start",
+    "team": "Team",
+    "faqs": "FAQ",
+    "apply": "Vraag voor deelname",
+    "resources": "Hulpbronnen",
+    "ticketHelp": "Heeft u hulp nodig met uw ticket?",
+    "privacy": "Privacybeleid",
+    "terms": "Algemene Voorwaarden",
+    "cookies": "Cookie-instellingen",
+    "address": "Guimardstraat 8, 1400 Brussels",
+    "email": "info@cyberxp.be",
+    "copyright": "CSC ASBL/VZW © {year}, Alle Rechten Voorbehouden"
+  },
+  "cookies": {
+    "title": "Wij respecteren uw privacy",
+    "message": "Wij gebruiken cookies om uw browse-ervaring te verbeteren en het siteverkeer te analyseren. Door op \"Accepteren\" te klikken, stemt u in met het gebruik van analytische cookies. U kunt uw voorkeuren op elk moment wijzigen.",
+    "accept": "Cookies accepteren",
+    "decline": "Weigeren",
+    "learnMore": "Meer info"
+  }
+}

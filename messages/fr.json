@@ -1,0 +1,284 @@
+{
+  "nav": {
+    "home": "Home",
+    "faq": "FAQ",
+    "team": "Team",
+    "resources": "Resources",
+    "bookEvent": "Sécurisez votre place",
+    "language": "FR"
+  },
+  "hero": {
+    "title": "Mettez-vous à jour sur la cybersécurité pour les PME",
+    "subtitle": "Laissez-vous inspirer par des discours captivants, des ateliers et des opportunités de réseautage. Débloquez de nouvelles opportunités et insights à la pointe de l'innovation.",
+    "cta": "Sécurisez votre place"
+  },
+  "partners": {
+    "supportedBy": "Soutenu par"
+  },
+  "expect": {
+    "label": "Que peut-on attendre de l'événement ?",
+    "title": "Une journée interactive en résidentiel pour vous aider à relever les défis en cybersécurité de votre entreprise.",
+    "description": "Conçu pour les PME et les travailleurs indépendants souhaitant vivre des simulations réelles, accéder à un coaching d'experts et obtenir des solutions pratiques pour protéger leur entreprise contre les menaces de cybersécurité de demain avec confiance."
+  },
+  "features": {
+    "caseStudies": {
+      "title": "Plongez-vous dans des études de cas sur des menaces réelles",
+      "description": "À travers des exercices immersifs basés sur des cas réels, les participants seront confrontés à des attaques par ransomware, des tentatives de phishing, des fraudes et des violations de données, apprenant comment les attaquants fonctionnent et comment répondre efficacement. Les simulations sont conçues pour refléter les menaces cyber réelles auxquelles sont confrontées les PME, garantissant pertinence et insights exploitables."
+    },
+    "coaching": {
+      "title": "Elaborez votre propre plan de sécurité avec l'aide d'un expert en cybersécurité",
+      "description": "Guidés par des professionnels de la cybersécurité, chaque participant élaborera un plan d'action de sécurité personnalisé comportant trois gains rapides pour améliorer la résilience face aux cybermenaces. L'accent sera mis sur les 3 aspects: l'implémentation de mesures de prévention, la détection d'attaques cyber et la mise en oeuvre de mesures concrètes en cas d'attaque."
+    }
+  },
+  "contactCta": {
+    "title": "Envie d'organiser votre propre événement « Just for You » ?",
+    "subtitle": "Contactez-nous dès maintenant à info@cyberxp.be"
+  },
+  "testimonials": {
+    "title": "Ce qu'ils disent",
+    "items": [
+      {
+        "quote": "Très belle offre. En une journée en tant qu'indépendant, PME ou profession libérale, vous pouvez améliorer considérablement votre cybersécurité. Et grâce à l'État, c'est totalement gratuit. Nous, à l'HRZKMO, incitons donc toutes les PME à tirer parti de ce projet et d'autres projets Cyber4SME.",
+        "name": "Jef Cools, adjunct-secretaris-generaal a.i.",
+        "org": "Hoge Raad voor Zelfstandigen en KMO's"
+      },
+      {
+        "quote": "Une grande opportunité de vous mettre au défi et de découvrir de nouvelles perspectives.",
+        "name": "Paul H., HR Manager",
+        "org": "SME IT Services"
+      },
+      {
+        "quote": "À la fin de la journée, nous savions comment protéger notre petite PME contre les cyberattaques. Les formateurs étaient prêts à partager leurs connaissances et nous ont aidés à élaborer un plan personnel étape par étape.",
+        "name": "Jan S., Director",
+        "org": "Industrial Equipment Retailer"
+      },
+      {
+        "quote": "L'atelier CYBER XP a fourni de nouvelles connaissances et perspectives de manière pratique et interactive.",
+        "name": "Laurence V., Accountant",
+        "org": "Gardening Services Company"
+      }
+    ]
+  },
+  "faqPreview": {
+    "title": "Questions Fréquemment Posées",
+    "browseFaq": "Consultez notre FAQ",
+    "items": [
+      {
+        "q": "Dois-je être un expert en informatique pour pourvoir y assister ?",
+        "a": "Pas du tout ! L'événement est conçu pour tout le monde — que vous soyez dirigeant d'entreprise, freelance, manager ou simplement curieux en matière de cybersécurité. Aucun bagage technique n'est requis."
+      },
+      {
+        "q": "Le contenu sera-t-il trop technique pour moi ?",
+        "a": "Non. Toutes les sessions sont conçues pour être accessibles et pratiques, en utilisant des exemples concrets qui ont du sens, quel que soit votre niveau d'expérience. Vous apprendrez des étapes pratiques que vous pouvez appliquer immédiatement."
+      },
+      {
+        "q": "À qui s'adresse vraiment cet événement ?",
+        "a": "Il est conçu pour les PME, les indépendants et toute personne cherchant à mieux comprendre comment protéger son entreprise ou son organisation contre les menaces cyber — même s'ils ne travaillent pas dans le service informatique."
+      },
+      {
+        "q": "Que faire si j'ai déjà un fournisseur informatique externe ou une équipe interne ?",
+        "a": "Parfait — cet événement vous aidera à mieux comprendre les risques, à poser les bonnes questions et à prendre des décisions plus éclairées en collaboration avec votre support informatique."
+      }
+    ]
+  },
+  "galleryCta": {
+    "title": "Expérimentez, Sécurisez, Grandissez",
+    "description": "Acquérez une expérience pratique grâce à des simulations immersives, un coaching expert et des études de cas réels. Renforcez vos compétences en cybersécurité, connectez-vous avec des professionnels du secteur et bâtissez une entreprise résiliente.",
+    "cta": "Réservez votre événement"
+  },
+  "faqPage": {
+    "title": "FAQ",
+    "subtitle": "Réponses rapides pour esprits curieux.",
+    "items": [
+      {
+        "q": "Dois-je être un expert en informatique pour pourvoir y assister ?",
+        "a": "Pas du tout ! L'événement est conçu pour tout le monde — que vous soyez dirigeant d'entreprise, freelance, manager ou simplement curieux en matière de cybersécurité. Aucun bagage technique n'est requis."
+      },
+      {
+        "q": "Le contenu sera-t-il trop technique pour moi ?",
+        "a": "Non. Toutes les sessions sont conçues pour être accessibles et pratiques, en utilisant des exemples concrets qui ont du sens, quel que soit votre niveau d'expérience. Vous apprendrez des étapes pratiques que vous pouvez appliquer immédiatement."
+      },
+      {
+        "q": "À qui s'adresse vraiment cet événement ?",
+        "a": "Il est conçu pour les PME, les indépendants et toute personne cherchant à mieux comprendre comment protéger son entreprise ou son organisation contre les menaces cyber — même s'ils ne travaillent pas dans le service informatique."
+      },
+      {
+        "q": "Que faire si j'ai déjà un fournisseur informatique externe ou une équipe interne ?",
+        "a": "Parfait — cet événement vous aidera à mieux comprendre les risques, à poser les bonnes questions et à prendre des décisions plus éclairées en collaboration avec votre support informatique."
+      },
+      {
+        "q": "Dans quelle langue l'événement aura-t-il lieu ?",
+        "a": "En Flandre aux Pays-Bas, en Wallonie en France et à Bruxelles, ce sera bilingue. Certaines parties des jeux peuvent être en anglais, mais nos entraîneurs sont là pour vous aider."
+      },
+      {
+        "q": "Puis-je amener 2 collègues avec moi à l'événement ?",
+        "a": "Pour donner à autant d'entreprises que possible une place et enrichir les échanges, nous limitons la participation à 2 personnes par entreprise. Vous pouvez donc amener 1 collègue avec vous."
+      },
+      {
+        "q": "Puis-je obtenir un certificat de participation à la formation ?",
+        "a": "Tous les participants recevront un certificat de présence."
+      },
+      {
+        "q": "Que faire si je ne peux pas assister en raison d'une maladie ou d'autres obligations urgentes ?",
+        "a": "Nous vous faisons confiance pour que, en vous inscrivant, vous vous engagiez à assister et que vous ne soyez pas absent, sauf en cas d'urgence. Pour éviter les \"absences non justifiées\" et donner la chance à d'autres personnes d'assister, nous apprécierions vraiment que vous nous informiez dès que possible. Trouver un bon remplaçant au sein de votre entreprise est alors très apprécié."
+      },
+      {
+        "q": "J'ai une allergie aux noix. Pouvez-vous en tenir compte pour le catering ?",
+        "a": "Nous prendrons bien sûr en compte toutes les exigences alimentaires spéciales, veuillez nous en informer avant l'événement."
+      },
+      {
+        "q": "Nous échangeons beaucoup d'informations parfois confidentielles... pouvez-vous garantir la confidentialité ?",
+        "a": "Nous faisons référence au lien vers notre Politique de Confidentialité au bas de la page d'accueil. De plus, lors des événements, nous travaillons selon la règle de Chatham House, ce qui signifie que vous êtes libre d'utiliser les informations reçues, mais ni l'identité ni l'affiliation des intervenants, ni celle de tout autre participant, ne peuvent être révélées."
+      }
+    ]
+  },
+  "teamPage": {
+    "title": "Rencontrez l'équipe",
+    "members": [
+      {
+        "name": "Vincent Defrenne",
+        "role": "Project manager and contact person"
+      },
+      {
+        "name": "Yves Schellekens",
+        "role": "Back-up contact person and supportive expert"
+      },
+      {
+        "name": "Anne-Claire Dalle",
+        "role": "Event and administration manager"
+      },
+      {
+        "name": "Julian Dotreppe",
+        "role": "Supportive expert"
+      }
+    ]
+  },
+  "resourcesPage": {
+    "title": "Resources",
+    "subtitle": "Collection de ressources conçues pour vous informer, vous aider et vous guider dans l'amélioration de votre posture de sécurité.",
+    "visitLink": "Visiter la ressource",
+    "confirmTitle": "Quitter CyberXP",
+    "confirmMessage": "Vous êtes sur le point de visiter un site externe. Voulez-vous continuer ?",
+    "cancel": "Annuler",
+    "confirm": "Continuer"
+  },
+  "privacyPage": {
+    "title": "Politique de confidentialité",
+    "lastUpdate": "Dernière mise à jour le 16 février 2025",
+    "sections": [
+      {
+        "title": "À propos de l'événement",
+        "content": "Les participants peuvent s'inscrire à l'événement via ce site web. Si leur candidature remplit les critères d'éligibilité et si des places restent disponibles pour l'événement, ils seront invités à s'inscrire à l'événement.\n\nL'événement est organisé en deux parties : l'événement principal, une expérience complète d'une journée en cybersécurité, et un événement de suivi organisé 6 à 12 semaines plus tard."
+      },
+      {
+        "title": "Informations personnelles",
+        "content": "Nous collectons des informations d'identification personnelle auprès des Utilisateurs lorsque ceux-ci s'inscrivent sur le site. Les Utilisateurs peuvent être invités à fournir leur prénom et leur nom, leur adresse e-mail, leur numéro de téléphone, leur profession, des informations sur leur employeur, leur province de résidence et leur année de naissance. Ces informations permettent au CSC de traiter les demandes d'inscription à l'événement."
+      },
+      {
+        "title": "Comment nous utilisons les informations",
+        "subtitle": "Pour envoyer des communications concernant l'événement",
+        "content": "Nous pouvons utiliser les adresses e-mail pour envoyer aux Utilisateurs des informations et des mises à jour concernant leur participation à l'événement. Cela ne constitue pas du marketing direct, mais fait partie intégrante de l'événement. Les adresses e-mail peuvent également être utilisées pour répondre aux questions, demandes et autres requêtes."
+      },
+      {
+        "title": "Pour l'analyse et les rapports",
+        "content": "En collaboration avec l'Université Catholique de Louvain (KUL), le CSC mène une étude sur l'impact des initiatives de sensibilisation, telles que cet événement, sur la résilience en cybersécurité des petites et moyennes entreprises belges.\n\nDe plus, étant donné que cet événement est financé par des subventions fédérales et européennes, le CSC est tenu de rendre compte du profil socio-économique des participants.\n\nÀ cette fin, nous pouvons utiliser les informations collectées pour définir les profils socio-économiques des participants ; toutefois, ces informations seront anonymisées."
+      },
+      {
+        "title": "Conservation des données",
+        "content": "Le CSC conserve les données personnelles des participants jusqu'au 31 mars 2027 au plus tard, date limite de soumission des rapports finaux au Gouvernement Fédéral Belge et à la Commission Européenne. Comme indiqué ci-dessus, les données rapportées seront anonymisées. Après cette date, vos données personnelles seront supprimées de nos systèmes."
+      },
+      {
+        "title": "Sites web tiers",
+        "content": "Les utilisateurs peuvent trouver des publicités ou d'autres contenus sur notre site qui renvoient vers les sites web et services de nos partenaires, fournisseurs, annonceurs, sponsors, concédants de licence et autres tiers. Nous ne contrôlons pas le contenu ou les liens qui apparaissent sur ces sites et ne sommes pas responsables des pratiques employées par les sites web liés à ou depuis notre site."
+      },
+      {
+        "title": "Modifications à cette politique de confidentialité",
+        "content": "Le CSC a la discrétion de mettre à jour cette politique de confidentialité à tout moment. Nous encourageons les Utilisateurs à consulter périodiquement cette politique de confidentialité et à être informés des modifications."
+      },
+      {
+        "title": "Votre acceptation de ces conditions",
+        "content": "En utilisant ce site, vous signifiez votre acceptation de cette politique. Si vous n'êtes pas d'accord avec cette politique, veuillez ne pas utiliser notre site. Votre utilisation continue du site après toute modification de cette politique sera considérée comme une acceptation de ces modifications."
+      },
+      {
+        "title": "Exercer vos droits",
+        "content": "Vous avez le droit de :\n\n- Demander l'accès à vos données personnelles. Cela vous permet de recevoir une copie des données personnelles que nous détenons à votre sujet et de vérifier que nous les traitons légalement.\n\n- Demander la correction des données personnelles que nous détenons à votre sujet. Cela vous permet de corriger des données incomplètes ou inexactes.\n\n- Demander la suppression de vos données personnelles. Cela vous permet de nous demander de supprimer vos données personnelles lorsqu'il n'y a aucune bonne raison de continuer à les traiter.\n\n- Vous opposer au traitement de vos données personnelles lorsque nous nous appuyons sur un intérêt légitime.\n\nEn outre, vous avez le droit de déposer une plainte auprès de l'autorité de contrôle compétente si le traitement de vos données personnelles enfreint la législation applicable. Les coordonnées de l'Autorité belge de protection des données sont :\n\nAutorité de protection des données\nRue de la Presse / Drukpersstraat 35, 1000 Bruxelles\nEmail : contact(at)apd-gba.be\nSite web : https://www.gegevensbeschermingsautoriteit.be/"
+      }
+    ]
+  },
+  "termsPage": {
+    "title": "Conditions générales",
+    "subtitle": "",
+    "lastUpdate": "Dernière mise à jour le 14 mars 2025",
+    "sections": [
+      {
+        "title": "Éthique",
+        "content": "CyberXP est conçu pour rassembler les gens dans un esprit juste de collaboration. Dans cet esprit, tous les participants sont tenus de se comporter de manière appropriée et de faire preuve de respect envers tous les participants, le personnel des Organisateurs et autres parties prenantes en tout temps et en toutes circonstances.\n\nTout comportement qui ne respecte pas ces normes sera la cause d'une exclusion immédiate, sans avertissement ni justification, à la discrétion des Organisateurs."
+      },
+      {
+        "title": "Précision des informations fournies",
+        "content": "Toutes les informations, y compris les informations personnelles, fournies par les participants lors de leur candidature et de leur enregistrement ultérieur à l'Événement, doivent être exactes et valides.\n\nLa falsification de données entraînera l'exclusion immédiate."
+      },
+      {
+        "title": "Critères d'éligibilité",
+        "content": "Le programme CyberXP a été créé dans le cadre du projet de recherche européen Cyber4SME, financé par le programme Digital Europe de l'Union européenne. Il est spécifiquement conçu pour les PME et les travailleurs indépendants exerçant en Belgique. Toutes les candidatures sont soumises à un processus de sélection pour s'assurer que les participants répondent aux critères d'éligibilité."
+      }
+    ]
+  },
+  "bookPage": {
+    "title": "Book your event",
+    "subtitle": "Empower your staff with real-world cybersecurity training - from awareness sessions to hands-on incident simulations.",
+    "formIntro": "Veuillez remplir ce formulaire pour postuler à une place lors de nos prochains événements. Notez que tous les candidats subissent un processus de sélection ; si vous êtes choisi, vous recevrez une invitation officielle.",
+    "fields": {
+      "fullName": "Quel est votre nom complet ?",
+      "companyName": "Quel est le nom de votre entreprise ?",
+      "companyActivity": "Quelle est l'activité principale de votre entreprise ?",
+      "companySize": "Quelle est la taille de votre entreprise ?",
+      "employees": "employé(s)",
+      "jobTitle": "Quel est votre intitulé de poste ?",
+      "companyEmail": "Quelle est l'adresse e-mail de votre entreprise ?",
+      "mobilePhone": "Quel est votre numéro de téléphone mobile ?",
+      "website": "Site web de l'entreprise (optionnel)",
+      "comments": "Commentaires supplémentaires (optionnel)",
+      "acceptPrivacy": "J'accepte le",
+      "privacyLink": "traitement de mes données personnelles",
+      "acceptTerms": "J'accepte les",
+      "termsLink": "termes et conditions"
+    },
+    "submit": "Sécurisez votre place",
+    "submitting": "Envoi en cours…",
+    "errorRequired": "Veuillez remplir tous les champs obligatoires.",
+    "errorCheckboxes": "Veuillez accepter la politique de confidentialité et les conditions générales."
+  },
+  "thanksPage": {
+    "title": "Merci !",
+    "heading": "Votre candidature a été reçue",
+    "message": "Merci pour votre intérêt pour CyberXP. Nous examinerons votre candidature et vous recontacterons dans les plus brefs délais. Si vous êtes sélectionné, vous recevrez une invitation officielle par e-mail.",
+    "backHome": "Retour à l'accueil"
+  },
+  "footer": {
+    "ctaTitle": "Expérimentez, Sécurisez, Evoluez",
+    "ctaDescription": "Acquérez une expérience pratique grâce à des simulations immersives, un coaching dirigé par des experts et des études de cas réelles. Renforcez vos compétences en cybersécurité, connectez-vous avec des professionnels de l'industrie et construisez une entreprise résiliente.",
+    "navigate": "Navigate",
+    "support": "Support",
+    "contact": "Contact",
+    "home": "Home",
+    "team": "Team",
+    "faqs": "FAQs",
+    "apply": "Sécurisez votre place",
+    "resources": "Resources",
+    "ticketHelp": "Need help with your ticket?",
+    "privacy": "Privacy policy",
+    "terms": "Terms & Conditions",
+    "cookies": "Cookie Settings",
+    "address": "Guimardstraat 8, 1400 Brussels",
+    "email": "info@cyberxp.be",
+    "copyright": "CSC ASBL/VZW © {year}, Tous Droits Réservés"
+  },
+  "cookies": {
+    "title": "Nous respectons votre vie privée",
+    "message": "Nous utilisons des cookies pour améliorer votre expérience de navigation et analyser le trafic du site. En cliquant sur \"Accepter\", vous consentez à l'utilisation de cookies analytiques. Vous pouvez modifier vos préférences à tout moment.",
+    "accept": "Accepter les cookies",
+    "decline": "Refuser",
+    "learnMore": "En savoir plus"
+  }
+}

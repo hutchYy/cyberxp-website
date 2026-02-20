@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: "Inter", system-ui, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* Gradient backgrounds used across the site */
+.hero-gradient {
+  background: linear-gradient(135deg, #06b6d4 0%, #22d3ee 50%, #67e8f9 100%);
+}
+
+.cta-gradient {
+  background: linear-gradient(135deg, #7c3aed 0%, #4c1d95 50%, #0f172a 100%);
+}
+
+.footer-cta-gradient {
+  background: linear-gradient(180deg, #0f4c5c 0%, #0a1628 100%);
+}
+
+/* Partner logos infinite scroll */
+@keyframes scroll-logos {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll-logos {
+  animation: scroll-logos 20s linear infinite;
+  width: max-content;
+}
+
+.animate-scroll-logos:hover {
+  animation-play-state: paused;
+}
+
+/* Fade mask for scrolling logos */
+.mask-gradient {
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+  mask-image: linear-gradient(to right, transparent 0%, black 10%, black 90%, transparent 100%);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
